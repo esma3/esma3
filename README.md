@@ -6,7 +6,7 @@
 
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=esma3&label=Profile%20views&color=0e75b6&style=flat" alt="esma3" /> </p> -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=esma3&label=Profile%20views&color=0e75b6&style=flat" alt="esma3" /> </p> 
 
 - 🌱 I’m currently learning **javascript,php**
 
